@@ -7,7 +7,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar] (https://druidgwind.github.io/nlw-esports-explorer/)
+[Clique aqui para acessar] (https://lfs-dev.github.io/nlw-esports-explorer/)
 
 
 
